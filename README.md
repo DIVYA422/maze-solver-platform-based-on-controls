@@ -1,1 +1,1 @@
-# mazer-solver-platform-based-on-controls
+# maze-solver-platform-based-on-controls
